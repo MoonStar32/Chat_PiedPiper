@@ -1,0 +1,5 @@
+{
+    "hello": "Hello!",
+    "goodbye": "Goodbye!",
+    "bonus": "You have received a bonus of {bonus} points!"
+}
